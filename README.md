@@ -7,7 +7,7 @@ In fall 2021 semester, we designed a classifier for compiler design course at Sh
 
 * python
 
-*libraries wich are used*
+### libraries wich are used
 
 *numpy
 *pandas
