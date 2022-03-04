@@ -8,20 +8,17 @@ In fall 2021 semester, we designed a classifier for compiler design course at Sh
 * python
 
 *libraries wich are used*
+
 *numpy
 *pandas
 *scikit learn
 *matplotlib
 *hazm
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Usage
 
 This project could be a simple example of NLP projects. A project wich can classify questions in five classes based on train data.
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
 ## Contact
 
 Zahra Khotanlou - z.khotanlou@gmail.com
