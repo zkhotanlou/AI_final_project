@@ -8,12 +8,11 @@ In fall 2021 semester, we designed a classifier for compiler design course at Sh
 * python
 
 ### libraries wich are used
-
-*numpy
-*pandas
-*scikit learn
-*matplotlib
-*hazm
+* numpy
+* pandas
+* scikit learn
+* matplotlib
+* hazm
 
 ## Usage
 
