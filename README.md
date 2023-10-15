@@ -1,5 +1,3 @@
-# README for Question Classification Chatbot
-
 ## Project Overview
 
 This project aims to classify questions into different categories as part of a chatbot application. The code is written in Python and uses various libraries and machine learning techniques.
