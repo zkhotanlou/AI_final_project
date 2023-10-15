@@ -1,7 +1,7 @@
 # AI_final_project
 
 ## About The Project
-In fall 2021 semester, we designed a classifier for compiler design course at Shahid Beheshti university. This classifier could be a part of SOHA project in faculty of computer enginnering wich can classify users' question in five classes. Actually these classes refers to different parts of our faculty for answering questions.
+Designed a classifier for Artificial Intelligence course at Shahid Beheshti university. This classifier could be a part of SOHA project in faculty of computer enginnering wich can classify users' question in five classes. Actually these classes refers to different parts of our faculty for answering questions.
 
 ### Built With
 
